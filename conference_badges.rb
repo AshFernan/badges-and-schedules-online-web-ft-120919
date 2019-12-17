@@ -1,5 +1,8 @@
 attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
+
+
+
 def badges_maker(name)
    puts "Hello, my name is #{name}"
 end
